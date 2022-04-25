@@ -1,6 +1,10 @@
 package publishing;
 
-public class Publication {
+import displaying.Display;
+
+import java.io.Serializable;
+
+public class Publication implements Display, Serializable {
     private String title;
     private String language;
     private int price;

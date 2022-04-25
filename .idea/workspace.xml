@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fee7ef4e-0504-486f-8390-57743558817c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Printing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/publishing/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/publishing/Publication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/publishing/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadsDemo/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadsDemo/Thread2.java" afterDir="false" />
+    <list default="true" id="fee7ef4e-0504-486f-8390-57743558817c" name="Changes" comment="Exercise 1 done">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/displaying/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/displaying/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/displaying/DisplayReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/displaying/DisplayWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/publishing/Publication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/publishing/Publication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/publishing/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/publishing/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,13 +43,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Thread2">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercise_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="Exercise_1" />
@@ -102,9 +105,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Thread2" />
         <item itemvalue="Application.Printing" />
-        <item itemvalue="Application.main" />
         <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
@@ -117,8 +120,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650565127574</updated>
-      <workItem from="1650565132031" duration="4584000" />
+      <workItem from="1650565132031" duration="5308000" />
+      <workItem from="1650874849631" duration="58000" />
+      <workItem from="1650879990939" duration="4451000" />
     </task>
+    <task id="LOCAL-00001" summary="Exercise 1 done">
+      <created>1650569780565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650569780565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +147,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise 1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1 done" />
   </component>
 </project>
